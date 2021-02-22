@@ -1,0 +1,3 @@
+[submodule "libquat"]
+	path = libquat
+	url = https://github.com/JBannwarth/matlab_quaternion_library
