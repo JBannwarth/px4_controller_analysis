@@ -1,2 +1,5 @@
-# px4_controller_analysis
-Analysis of PX4 controller equations
+# PX4 Controller Analysis
+
+Analysis of PX4 controller equations.
+
+Jérémie X. J. Bannwarth
